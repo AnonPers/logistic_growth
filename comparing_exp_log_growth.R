@@ -29,7 +29,7 @@ exponential_fun <- function(t) {
 extended_time <- seq(0, 20, by = 0.1)
 
 
-#parameters of previously found estimates 
+#parameters estimates 
 
 N0 <- 995.256 
 
